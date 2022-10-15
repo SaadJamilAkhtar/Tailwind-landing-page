@@ -1,5 +1,5 @@
 # Tailwind Landing Page for "manage"
-A responsive web page build using tailwind css and some js.
+A responsive web page built using tailwind css and js.
 
 ### Find a live preview [Here](https://tailwind-landing-page-omega.vercel.app)
 ![Image](https://github.com/SaadJamilAkhtar/Project-Images/blob/master/tailwind-1.png?raw=true)
